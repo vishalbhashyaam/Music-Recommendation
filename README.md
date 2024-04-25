@@ -4,7 +4,7 @@
 This project leverages a Siamese neural network to recommend songs on Spotify. By comparing audio features of songs, the network learns to identify and suggest tracks with similar musical characteristics. This project aims to enhance user experience by providing personalized song recommendations.
 
 ## Architecture 
-<img title="Modified Siamese Network" alt="Architecture diagram" src="/images/boo.svg">
+<img title="Modified Siamese Network" alt="Architecture diagram" src="Architecture Diagram/Siamese_arch.drawio.png">
 
 ## Technologies Used
 - Python 3.8+
